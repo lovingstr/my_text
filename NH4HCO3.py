@@ -11,3 +11,8 @@ for x in range(n):
 
 print(result)
 
+
+##
+##
+
+quit()
